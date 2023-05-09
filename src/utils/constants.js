@@ -1,6 +1,7 @@
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
 import HomeIcon from '@mui/icons-material/Home';
-import CodeIcon from '@mui/icons-material/Code';
+import DataObjectIcon from '@mui/icons-material/DataObject';
+import WhatshotIcon from '@mui/icons-material/Whatshot';
 import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import LiveTvIcon from '@mui/icons-material/LiveTv';
@@ -12,15 +13,13 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://cdn0.iconfinder.com/data/icons/online-4/64/youtube_video_media-512.png';
+export const logo = 'https://cdn.iconscout.com/icon/free/png-512/free-youtube-268-721990.png?f=avif&w=256';
 
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Web Development', icon: <CodeIcon />, },
-  { name: 'ComicVerse', icon: <CodeIcon />, },
-  { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
+  { name: 'Trending', icon: <WhatshotIcon />, },
+  { name: 'ReactJS', icon: <DataObjectIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
