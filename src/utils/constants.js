@@ -18,7 +18,7 @@ export const logo = 'https://cdn2.iconfinder.com/data/icons/social-media-2107/64
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Trending', icon: <WhatshotIcon />, },
+  { name: 'Popular', icon: <WhatshotIcon />, },
   { name: 'ReactJS', icon: <DataObjectIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
