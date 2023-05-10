@@ -13,7 +13,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://cdn.iconscout.com/icon/free/png-512/free-youtube-268-721990.png?f=avif&w=256';
+export const logo = 'https://cdn2.iconfinder.com/data/icons/social-media-2107/64/Youtube-512.png';
 
 
 export const categories = [
